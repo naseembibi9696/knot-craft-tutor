@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Knot Craft Tutor</string>
+
+    <string name="brand_line_one">KNOT CRAFT</string>
+    <string name="brand_line_two">TUTOR</string>
+    <string name="splash_subtitle">30 KNOTS · TRACE · TIE</string>
+    <string name="splash_caption">PAYING OUT THE LINE</string>
+    <string name="desc_emblem">Knot Craft Tutor emblem</string>
+
+    <string name="menu_eyebrow">ROPE LOCKER</string>
+    <string name="menu_hero_one">KNOT</string>
+    <string name="menu_hero_two">CRAFT</string>
+    <string name="menu_tagline">LEARN THE LINE, THEN TIE IT FOR REAL</string>
+    <string name="menu_learned">LEARNED</string>
+    <string name="menu_recent">RECENT LINES</string>
+    <string name="menu_first_hint">START WITH THE BOWLINE, THE KING OF KNOTS</string>
+    <string name="menu_loading">OPENING THE LOCKER</string>
+
+    <string name="cta_play">START LESSON</string>
+    <string name="cta_families">KNOT FAMILIES</string>
+    <string name="cta_quiz">USE QUIZ</string>
+    <string name="cta_start_trace">START TRACE</string>
+    <string name="cta_reset_trace">RESET TRACE</string>
+    <string name="cta_end_trace">END TRACE</string>
+    <string name="cta_show_steps">SHOW STEPS</string>
+    <string name="cta_prev_step">PREV STEP</string>
+    <string name="cta_next_step">NEXT STEP</string>
+    <string name="cta_trace_again">TRACE AGAIN</string>
+    <string name="cta_next_knot">NEXT KNOT</string>
+    <string name="cta_menu">MENU</string>
+    <string name="cta_rope_checked">ROPE CHECKED</string>
+    <string name="cta_cancel">CANCEL</string>
+    <string name="cta_reset_progress">RESET PROGRESS</string>
+    <string name="cta_wipe">WIPE THE LOCKER</string>
+
+    <string name="title_families">KNOT FAMILIES</string>
+    <string name="title_quiz">USE QUIZ</string>
+    <string name="title_settings">LOCKER SETTINGS</string>
+
+    <string name="family_loops">LOOPS</string>
+    <string name="family_hitches">HITCHES</string>
+    <string name="family_bends">BENDS</string>
+    <string name="family_stoppers">STOPPERS</string>
+    <string name="families_empty">NOTHING IN THIS FAMILY YET</string>
+    <string name="tag_learned">LEARNED</string>
+
+    <string name="lesson_hint">SCRUB THE LINE, STEP BY STEP</string>
+    <string name="lesson_playing">ANIMATION RUNNING</string>
+    <string name="lesson_paused">ANIMATION PAUSED</string>
+    <string name="desc_pause_animation">Pause the rope animation</string>
+    <string name="desc_resume_animation">Resume the rope animation</string>
+
+    <string name="game_hint">FOLLOW THE ROPE, OVER AT GOLD, UNDER AT WHITE</string>
+    <string name="stat_progress">PROGRESS</string>
+    <string name="stat_clean">CLEAN</string>
+    <string name="stat_strays">STRAYS</string>
+    <string name="stat_accuracy">ACCURACY</string>
+    <string name="stat_crossings">CROSSINGS</string>
+    <string name="stat_clean_runs">CLEAN RUNS</string>
+    <string name="stat_score">SCORE</string>
+    <string name="label_crossings">CROSSINGS</string>
+    <string name="label_step">STEP</string>
+    <string name="label_question">Q</string>
+
+    <string name="quiz_prompt">WHAT IS THIS KNOT BEST USED FOR?</string>
+    <string name="desc_quiz_knot">The knot in question</string>
+
+    <string name="verdict_tied">KNOT TIED</string>
+    <string name="verdict_slipped">LINE SLIPPED</string>
+    <string name="verdict_quiz">QUIZ DONE</string>
+    <string name="banner_learned">LEARNED</string>
+    <string name="desc_result_knot">Result knot specimen</string>
+
+    <string name="dialog_rope_check">ROPE CHECK</string>
+    <string name="dialog_rope_check_intro">PUT THE SCREEN DOWN AND TIE IT FOR REAL</string>
+    <string name="check_rope_in_hand">Real rope in hand, not a picture</string>
+    <string name="check_shape_matches">Shape matches the lesson, over and under</string>
+    <string name="check_order">Tightened in the right order</string>
+    <string name="check_holds">Holds steady under a firm pull</string>
+    <string name="dialog_reset_title">RESET PROGRESS</string>
+    <string name="dialog_reset_body">Every learned knot, streak and quiz best is cleared. Settings stay as they are.</string>
+
+    <string name="settings_mirror">LEFT-HAND MIRRORING</string>
+    <string name="settings_mirror_help">Flip every rope path for left-handed tying</string>
+    <string name="settings_shade">ROPE COLOUR</string>
+    <string name="settings_shade_help">The colour of the rope you trace</string>
+    <string name="settings_speed">ANIMATION SPEED</string>
+    <string name="settings_speed_help">How fast the lesson plays itself</string>
+    <string name="settings_haptics">HAPTICS</string>
+    <string name="settings_haptics_help">A short buzz on every crossing and stray</string>
+    <string name="settings_danger">Clearing the locker cannot be undone</string>
+    <string name="shade_manila">MANILA</string>
+    <string name="shade_signal">SIGNAL</string>
+    <string name="shade_sailcloth">SAILCLOTH</string>
+    <string name="speed_slow">0.5X</string>
+    <string name="speed_normal">1X</string>
+    <string name="speed_fast">1.5X</string>
+    <string name="state_on">ON</string>
+    <string name="state_off">OFF</string>
+    <string name="state_selected">SELECTED</string>
+    <string name="state_not_selected">NOT SELECTED</string>
+
+    <string name="desc_back">Go back</string>
+    <string name="desc_settings">Open locker settings</string>
+    <string name="desc_locker">Rope locker</string>
+    <string name="desc_coiled_rope">A neatly coiled manila rope</string>
+    <string name="desc_knot_thumb">Knot specimen</string>
+</resources>
